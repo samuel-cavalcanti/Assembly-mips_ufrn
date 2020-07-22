@@ -19,6 +19,9 @@ Usem o MARS (MIPS Assembler and Runtime Simulator) ao invés do  QTSpim.
 
 - [link para o MARS](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
 
+Pode também baixar o MARS direto desse repositório:
+[MARS](Mars4_5.jar) desse modo o comando abaixo irá funcionar perfeitamente
+
 ### Como usar o MARS
 
 Primeiro tenha certeza que tem uma versão do JAVA instalado.
